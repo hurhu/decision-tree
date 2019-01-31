@@ -1,0 +1,14 @@
+D1   Sunny   85  85  Weak    No
+D2   Sunny   80  90  Strong  No
+D3   Overcast    83  78  Weak    Yes
+D4   Rain    70  96  Weak    Yes
+D5   Rain    68  80  Weak    Yes
+D6   Rain    65  70  Strong  No
+D7   Overcast    64  65  Strong  Yes
+D8   Sunny   72  95  Weak    No
+D9   Sunny   69  70  Weak    Yes
+D10  Rain    75  80  Weak    Yes
+D11  Sunny   75  70  Strong  Yes
+D12  Overcast    72  90  Strong  Yes
+D13  Overcast    81  75  Weak    Yes
+D14  Rain    71  80  Strong  No
